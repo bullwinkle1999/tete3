@@ -23,7 +23,6 @@ branding:
   icon: 'activity'
   color: 'green'
   
-  
  job: 
   steps:
   - name: Run Dastardly Action Step
