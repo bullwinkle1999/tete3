@@ -24,7 +24,6 @@ branding:
   color: 'green'
   
   
-  
  job: 
   steps:
   - name: Run Dastardly Action Step
